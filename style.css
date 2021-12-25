@@ -1,11 +1,17 @@
 canvas{
-    /* width: 100%; */
-    /* height: 100%; */
-    padding-top: 20%;
+     width: 100%;  
+     /* height: 50%;  */
+    /* padding-top: 20%; */
+    /* padding-left: 10%; */
+    /* padding-bottom: 20%; */
+    /* padding-right: 10%; */
+    margin: 0 auto;
 }
 
 body{
     background-color: burlywood;
+    align-items: center;
+    /* margin: none; */
     /* background-image: "./Assets/wooden.jpg"; */
 }
 
